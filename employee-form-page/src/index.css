@@ -1,0 +1,20 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.main-container{
+    background:linear-gradient(to bottom,rgb(94, 245, 172),rgb(93, 243, 241),rgb(85, 203, 239));
+    height:100vh;
+    padding:10%;
+    text-align: center;
+}
+.button-container{
+    border-style: hidden;
+    border-color: aquamarine;
+    color:black;
+    font-family:roboto;
+    font-weight:bold;
+    padding:7px;
+    background:linear-gradient(to right,rgb(7, 153, 167),rgb(100, 188, 187))
+}
