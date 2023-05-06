@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.main-container{
+    background: linear-gradient(to bottom,rgb(132, 3, 3),rgb(80, 14, 14),rgb(31, 5, 5));
+    height:100vh;
+    width:100vw;
+    padding:10px;
+}
+.title-container{
+    font-family:Roboto;
+    font-weight: bold;
+    text-align: center;
+    padding:20px;
+    color:rgb(37, 8, 8);
+}
+.actors-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin:10px;
+}
+.lead-container{
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    align-items: center;
+}
+.actors-img-container{
+    height:200px;
+    width:250px;
+}

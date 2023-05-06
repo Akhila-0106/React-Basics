@@ -1,10 +1,11 @@
 import React from "react";
 import reactDom from "react-dom/client";
-import './index.css'
+import './index.css';
 
 
 const FormPage=()=>{
     return (
+    
         <div className="main-container">
 
             <h1>EMPLOYEE APPLICATION FORM</h1>
