@@ -1,0 +1,26 @@
+Material Theme (Equin----)
+
+Material Icon Theme (Phillip Kief)
+
+Auto Rename Tag (Jun Han)
+
+Live Server(Ritwick Dey)
+
+CSS Peek(ecmel)
+
+Pretteir
+
+React Code Refactor(planbcoding)
+
+Material Icons Library(Archety)
+
+Git Lens(GitKraken)
+
+Simple React Snippets(Burke Holland)
+
+Better Comments(Aaron Bond)
+
+npm Intellisense(Christian Kohler)
+
+ESLINT(Microsoft)
+

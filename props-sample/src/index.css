@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.component-container1{
+    text-align:center;
+    font-family: "roboto";
+    background-color: rgb(187, 129, 241);
+    color: black;
+}
+
+.component-container2{
+    text-align:center;
+    font-family: "roboto";
+    background-color: rgb(6, 28, 137);
+    color: rgb(226, 229, 236);
+}

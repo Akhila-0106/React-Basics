@@ -1,0 +1,19 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+.main-container{
+    margin:10px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+.userProfile-container{
+    text-align: center;
+}
+.userImg{
+    width:200px;
+    height:200px;
+}
