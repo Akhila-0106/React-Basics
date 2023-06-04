@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.main-container{
+    background-color: rgb(61, 71, 76);
+    height:100vh;
+}
+.comp-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-1{
+    height:200px;
+    width:450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin:2rem;
+    border-radius: 12px;
+    padding:50px;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20211125/pngtree-latar-estetik-polos-dan-mentahan-background-aesthetic-image_917138.png');
+}
+
+.card-2{
+    height:200px;
+    width:450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin:2rem;
+    border-radius: 12px;
+    padding:50px;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210717/pngtree-aesthetic-background-pink-pastel-image_746353.jpg');
+}
+
+.card-3{
+    height:200px;
+    width:450px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items: flex-end;
+    margin:2rem;
+    border-radius: 12px;
+    padding:50px;
+    background-image: url('https://img.freepik.com/free-vector/hand-drawn-abstract-doodle-background_23-2149323527.jpg?w=360');
+}
+
+.button-container{
+    width:100px;
+    padding:5px;
+    border-radius: 3px;
+    border:0px;
+    box-shadow: inset;
+    background-color: rgb(108, 130, 137);
+    color:whitesmoke;
+    margin:5px;
+}
