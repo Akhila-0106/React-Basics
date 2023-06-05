@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.comp-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top:12%;
+}
+.main-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height:12%;
+    width:20%;
+    color:whitesmoke;
+    padding:5px;
+    font-family:Roboto;
+    font-size:11px;
+    border-radius:10px;
+    align-items: center;
+    margin-top:7px;
+}
+
+.fa-icon{
+    padding-right:15%;
+}
+.icon-1{
+    background-color:rgb(14, 188, 240);
+}
+
+.icon-2{
+    background-color:rgb(14, 234, 172);
+}
+
+.icon-3{
+    background-color:rgb(26, 122, 232); 
+}
