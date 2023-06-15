@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.main-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-top:20%;
+}
+.text-container{
+    padding:10px;
+}
+.count-container{
+    color:rgb(117, 41, 188);
+}
+.btn-container{
+    border:none;
+    padding:10px;
+    background: linear-gradient(to top,rgb(206, 183, 236),rgb(154, 118, 231),rgb(129, 76, 236));
+    outline:none;
+    cursor:pointer;
+}
