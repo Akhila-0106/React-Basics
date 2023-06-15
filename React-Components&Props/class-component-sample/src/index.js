@@ -1,6 +1,3 @@
-
-
-
 import SampleComponent from './index.js'
 
 const App = () => {
