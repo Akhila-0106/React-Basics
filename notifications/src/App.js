@@ -26,6 +26,7 @@ const data=[
 const App=()=>{
     return (
         <div className="comp-container">
+            <h1>Notifications</h1>
             {
                 data.map((eachObj)=>{
                     const {id,faIcon,notiticationText,styleIcon}=eachObj
