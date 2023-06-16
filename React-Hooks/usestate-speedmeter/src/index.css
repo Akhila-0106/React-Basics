@@ -1,0 +1,150 @@
+@media screen and (min-width:576px){
+
+    *{
+        margin:0px;
+        padding:0px;
+        box-sizing:border-box;
+    }
+
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        height:100vh;
+    }
+    
+    .page-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: "roboto";
+        height:80%;
+        width:90%;
+        color:white;
+    }
+    
+    .heading-content{
+        font-size:5rem;
+        font-weight: bold;
+        color:white;
+    }
+    
+    .img-container{
+        width:60%;
+        height:50%;
+    
+    }
+    
+    .description-container{
+         margin:2rem;
+    }
+    
+    .acc-btn{
+        cursor:pointer;
+        outline:none;
+        border:none;
+        border-radius: 2px;
+        height:2rem;
+        width:6rem;
+        background-color: rgb(51, 116, 245);
+        color:wheat;
+        font-weight:bold;
+        margin-right:1rem;
+    }
+    
+    .brk-btn{
+        cursor:pointer;
+        outline:none;
+        border:1px solid white;
+        border-radius: 2px;
+        height:2rem;
+        width:6rem;
+        background-color: black;
+        color:white;
+        font-weight:bold;
+        margin-right:1rem;
+    }
+
+    .count-value{
+        color:rgb(166, 161, 161);
+    }
+}
+
+
+
+@media screen and (min-width:768px) and (max-width:1200px){
+
+    *{
+        margin:0px;
+        padding:0px;
+        box-sizing:border-box;
+    }
+
+    .main-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        /* text-align:center; */
+        background-color: black;
+        height:100vh;
+    }
+    
+    .page-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: "roboto";
+        /* padding:2rem; */
+        /* border:2px solid white; */
+        height:80%;
+        width:90%;
+        color:white;
+    }
+    
+    .heading-content{
+        font-size:5rem;
+        font-weight: bold;
+        color:white;
+    }
+    
+    .img-container{
+        width:40%;
+        height:40%;
+    
+    }
+    
+    .description-container{
+         margin:2rem;
+    }
+    
+    .acc-btn{
+        cursor:pointer;
+        outline:none;
+        border:none;
+        border-radius: 2px;
+        height:2rem;
+        width:6rem;
+        background-color: rgb(51, 116, 245);
+        color:wheat;
+        font-weight:bold;
+        margin-right:1rem;
+    }
+    
+    .brk-btn{
+        cursor:pointer;
+        outline:none;
+        border:1px solid white;
+        border-radius: 2px;
+        height:2rem;
+        width:6rem;
+        background-color: black;
+        color:white;
+        font-weight:bold;
+        margin-right:1rem;
+    }
+}
