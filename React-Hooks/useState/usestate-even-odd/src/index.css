@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box
+}
+
+.main-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to bottom,#ff6e7f,#bfe9ff);
+}
+
+.count-heading{
+    padding-top:0px;
+    margin-top:0px;
+    margin-bottom:10px;
+    font-family: sans-serif;
+}
+
+.even-odd-container{
+    padding-top:0px;
+    margin-top:0px;
+    margin-bottom:10px;
+    font-family: sans-serif;
+    color:#334155;
+}
+
+.button-container{
+    outline:none;
+    border:0px;
+    padding:12px;
+    border-radius: 5px;
+    margin-top:0px;
+    margin-bottom:10px;
+}
+
+.note-container{
+    color: #1e293b
+}
